@@ -1,0 +1,7 @@
+/.venv
+/.vs
+
+/data
+
+/porftolio_management/xgb_tutorial_LAMDAMART.ipynb
+/porftolio_management/tensorflow_ranker.py
